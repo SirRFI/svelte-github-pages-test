@@ -22,9 +22,9 @@ const config = {
 		// prerender: {
 		// 	default: true,
 		// },
-		paths: {
-			base: dev ? '' : '/svelte-github-pages-test',
-		}
+		// paths: {
+		// 	base: dev ? '' : '/svelte-github-pages-test',
+		// }
 	}
 };
 
